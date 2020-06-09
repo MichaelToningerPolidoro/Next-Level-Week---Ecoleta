@@ -51,7 +51,7 @@
     na aplicação e é ótimo para praticar conceitos por ser leve e prático.
   <br/><br/>[Voltar ao índice](#indice)
 
-## <a name="imagens_aplicacao">5. Imagens da aplicação :books:</a>
+## <a name="imagens_aplicacao">5. Imagens da aplicação :camera:</a>
   Página Home do projeto.
   ![home](https://github.com/MichaelToningerPolidoro/Next-Level-Week---Ecoleta/blob/master/github/home.png?raw=true)
   <br/><br/>

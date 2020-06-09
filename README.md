@@ -52,12 +52,24 @@
   <br/><br/>[Voltar ao índice](#indice)
 
 ## <a name="imagens_aplicacao">5. Imagens da aplicação :books:</a>
-  Imagens ...
+  Página Home do projeto.
+  ![home](https://github.com/MichaelToningerPolidoro/Next-Level-Week---Ecoleta/blob/master/github/home.png?raw=true)
+  <br/><br/>
+  Página de cadastro de ponto de coleta
+  ![cadastro1](https://github.com/MichaelToningerPolidoro/Next-Level-Week---Ecoleta/blob/master/github/telaCadastro1.png?raw=true)
+  <br/><br/>
+  ![cadastro2](https://github.com/MichaelToningerPolidoro/Next-Level-Week---Ecoleta/blob/master/github/telaCadastro2.png?raw=true)
+  <br/><br/>
+  Modal para realizar a buscas pelos pontos a partir de uma cidade.
+  ![modal_busca](https://github.com/MichaelToningerPolidoro/Next-Level-Week---Ecoleta/blob/master/github/modalBusca.png?raw=true)
+  <br/><br/>
+  Página de resultados da busca
+  ![resultados](https://github.com/MichaelToningerPolidoro/Next-Level-Week---Ecoleta/blob/master/github/resultados.png?raw=true)
   <br/><br/>[Voltar ao índice](#indice)
 
 ## <a name="conceitos_aprendidos">6. Conceitos aprendidos :books:</a>
   Alguns conceitos que consegui assimilar e ter primeiro contato prático foram:  
-    - Melhores entendimentos dos forms HTML. <br/><br/>
+    - Melhores entendimentos dos formulários HTML. <br/><br/>
     - Posicionamento e melhor entendimento do CSS. <br/><br/>
     - Acesso a uma API. <br/><br/>
     - Como funcionam os métodos [GET](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods/GET) 

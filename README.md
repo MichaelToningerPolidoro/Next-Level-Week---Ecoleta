@@ -7,22 +7,23 @@
   3. [Tecnologias utilizadas](#tecnologias_utilizadas)
   4. [Aulas](#aulas)
   5. [Imagens da aplicação](#imagens_aplicacao)
-  6. [Conceitos aprendidos](#conceitos_aprendidos)
-  7. [Quem ministrou ?](#quem_ministrou)  
+  6. [Como utilizar](#como_utilizar)
+  7. [Conceitos aprendidos](#conceitos_aprendidos)
+  8. [Quem ministrou ?](#quem_ministrou)  
 ***
 
 ## <a name="nlw">1. Next Level Week :information_source:</a>
-  A **Next Level Week** é uma semana de muito código e conteúdo prático, desafios e aprendizado, 
+  A **Next Level Week** é uma semana de muito código, conteúdo prático, desafios e aprendizado, 
   é um evento online e gratuito, realizado pela [Rocketseat](https://rocketseat.com.br/).
   <br/><br/>[Voltar ao índice](#indice)
   
 ## <a name="ecoleta">2. Ecoleta :recycle:</a>
   A ideia para esse projeto surgiu a partir da semana internacional do meio ambinete e visa conectar empresas 
-  e pessoas, a fim de encontrar e/ou cadastrar pontos de coleta de certos tipos de resíduos.
+  e pessoas através de pontos de coletas de resíduos específicos, cadastrados previamente.
   <br/><br/>[Voltar ao índice](#indice)
 
 ## <a name="tecnologias_utilizadas">3. Tecnologias utilizadas :computer:</a>
-  As tecnologias utilizadas na criação do projeto foram:  
+  As tecnologias utilizadas no projeto foram:  
   1. [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
   2. [CSS](https://developer.mozilla.org/pt-BR/docs/Glossario/CSS)
   3. [JavaScript](https://developer.mozilla.org/pt-BR/docs/Glossario/JavaScript)
@@ -67,21 +68,31 @@
   ![resultados](https://github.com/MichaelToningerPolidoro/Next-Level-Week---Ecoleta/blob/master/github/resultados.png?raw=true)
   <br/><br/>[Voltar ao índice](#indice)
 
-## <a name="conceitos_aprendidos">6. Conceitos aprendidos :books:</a>
+## <a name="como_utilizar">6. Como utilizar :grey_question: </a>
+  Para a utilização desse projeto, é necessário que você tenha instalado o node.js em sua máquina. <br/><br/>
+   - Para instalar as dependências do projeto utilize o comando `npm install`.
+   - Dentro da pasta do projeto, utilize o comando `node src/server.js` para iniciar o servidor local na porta 3000.
+   - Com o atalho `ctrl + c` o servidor local é desativado.
+   - No arquivo `db.js` o comando que realiza a criação da tabela está comentado, para a criação da
+     mesma, é necessário retirar esses comentários para criar a tabela que armazena os dados sobre
+     os pontos de coleta.
+  <br/><br/>[Voltar ao índice](#indice)
+
+## <a name="conceitos_aprendidos">7. Conceitos aprendidos :books:</a>
   Alguns conceitos que consegui assimilar e ter primeiro contato prático foram:  
-    - Melhores entendimentos dos formulários HTML. <br/><br/>
-    - Posicionamento e melhor entendimento do CSS. <br/><br/>
-    - Acesso a uma API. <br/><br/>
+    - Melhor entendimento dos formulários HTML. <br/><br/>
+    - Posicionamento/layout e melhor entendimento do CSS. <br/><br/>
+    - Acesso a uma API do [IBGE](https://www.ibge.gov.br/) utilizando JS. <br/><br/>
     - Como funcionam os métodos [GET](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods/GET) 
     e [POST](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods/POST) do protocolo 
     [HTTP](https://developer.mozilla.org/pt-BR/docs/Glossario/HTTP). <br/><br/>
     - O que são Template Engines. <br/><br/>
-    - Tive contato na prática a criação de rotas no servidor com o express. <br/><br/>
+    - Tive contato na prática com a criação de rotas no servidor utilizando o express. <br/><br/>
     - Realizar buscas em uma base de dados diretamente da linguagem de programação. <br/><br/>
-    - Além de diversas dicas e conceitos apresentados.
+    - Além de dicas e conceitos apresentados.
   <br/><br/>[Voltar ao índice](#indice)
 
-## <a name="quem_ministrou">7. Quem ministrou ? :mortar_board:</a>
+## <a name="quem_ministrou">8. Quem ministrou ? :mortar_board:</a>
   A NLW na trilha Starter foi lecionada pelo [Mayk Brito](https://github.com/maykbrito), quem me ajudou
   a entender diversos conceitos, além descobrir novas tecnologias e sou grato por todos esses ensinamentos.
   <br/><br/>[Voltar ao índice](#indice)

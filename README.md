@@ -14,12 +14,12 @@
 
 ## <a name="nlw">1. Next Level Week :information_source:</a>
   A **Next Level Week** é uma semana de muito código, conteúdo prático, desafios e aprendizado, 
-  é um evento online e gratuito, realizado pela [Rocketseat](https://rocketseat.com.br/).
+  é um evento online e gratuito, elaborado pela [Rocketseat](https://rocketseat.com.br/).
   <br/><br/>[Voltar ao índice](#indice)
   
 ## <a name="ecoleta">2. Ecoleta :recycle:</a>
   A ideia para esse projeto surgiu a partir da semana internacional do meio ambinete e visa conectar empresas 
-  e pessoas através de pontos de coletas de resíduos específicos, cadastrados previamente.
+  e pessoas através de pontos de coleta de resíduos específicos, cadastrados previamente.
   <br/><br/>[Voltar ao índice](#indice)
 
 ## <a name="tecnologias_utilizadas">3. Tecnologias utilizadas :computer:</a>
@@ -30,29 +30,31 @@
   4. [NodeJS](https://nodejs.org/en/)
   5. [SQLite3](https://sqlite.org/index.html)
   6. [Git](https://git-scm.com/)
+  7. [Nunjucks](https://mozilla.github.io/nunjucks/)
   <br/><br/>[Voltar ao índice](#indice)
 
 ## <a name="aulas">4. Aulas :memo:</a>
   **Dia 1 (01/06) - Acelerando sua evolução** :heavy_check_mark:  
-    No primeiro dia do evento foram criadas a página principal da aplicação, utilizando
-    apenas HTML e CSS.<br/><br/>
+    No primeiro dia do evento foi criada a página principal da aplicação, utilizando
+    HTML e CSS.<br/><br/>
   **Dia 2 (02/06) - Olhando para as oportunidades** :heavy_check_mark:  
-    No segundo dia, foi criada o inicio da página de criar pontos de coleta e introduzido 
+    No segundo dia, foi criado o inicio da página que cadastra os pontos de coleta e foi introduzido 
     o JavaScript para realizar acesso a APIs do [IBGE](https://servicodados.ibge.gov.br/api/docs).<br/><br/>
   **Dia 3 (03/06) - A escolha da Stack** :heavy_check_mark:  
-    O terceiro dia foi apresentado o NodeJS, o qual foi utilizado para executar códigos JavaScript 
-    fora do navegador e então instalar o pacote [express](https://github.com/expressjs/express) 
-    pelo [NPM](https://www.npmjs.com/) e possibilitar a criação de um servidor local.<br/><br/>
+    O NodeJS foi apresentado no terceiro dia, o qual foi utilizado para executar códigos JavaScript 
+    fora do navegador e então instalamos o pacote [express](https://github.com/expressjs/express) 
+    através do [NPM](https://www.npmjs.com/) e possibilitar a criação de um servidor local.<br/><br/>
   **Dia 4 (04/06) - Até 2 anos em 2 meses** :heavy_check_mark:  
     Nesse dia foi mostrado uma nova tecnologia, o [nunjucks](https://mozilla.github.io/nunjucks/), 
     essa é uma template engine que possibilita a criação de um "HTML mais dinâmico" e reaproveitar 
     pedaços do HTML em diversos arquivos.<br/><br/>
   **Dia 5 (05/06) - Milha extra** :heavy_check_mark:  
-    O último dia foi introduzido o banco de dados SQLite3, o qual é um banco de dados que reside direto
+    O último dia foi introduzido o banco de dados SQLite3, um banco de dados que reside
     na aplicação e é ótimo para praticar conceitos por ser leve e prático.
   <br/><br/>[Voltar ao índice](#indice)
 
 ## <a name="imagens_aplicacao">5. Imagens da aplicação :camera:</a>
+  Todos os assets foram disponibilizados pela **@Rocketseat**. <br>
   Página Home do projeto.
   ![home](https://github.com/MichaelToningerPolidoro/Next-Level-Week---Ecoleta/blob/master/github/home.png?raw=true)
   <br/><br/>
@@ -93,6 +95,6 @@
   <br/><br/>[Voltar ao índice](#indice)
 
 ## <a name="quem_ministrou">8. Quem ministrou ? :mortar_board:</a>
-  A NLW na trilha Starter foi lecionada pelo [Mayk Brito](https://github.com/maykbrito), quem me ajudou
-  a entender diversos conceitos, além descobrir novas tecnologias e sou grato por todos esses ensinamentos.
+  A trilha starter da NLW foi lecionada pelo [Mayk Brito](https://github.com/maykbrito), quem me ajudou
+  a entender diversos conceitos edescobrir novas tecnologias, sou grato por todos esses ensinamentos.
   <br/><br/>[Voltar ao índice](#indice)
